@@ -1,4 +1,4 @@
-# Web Scraping de Resultados de Futebol ao Vivo
+# Web Scraping de Resultados de Futebol ao Vivo V1
 
 Este é um projeto simples em Python que utiliza o Selenium e BeautifulSoup para extrair e exibir os resultados de partidas de futebol ao vivo do site FlashScore.
 
